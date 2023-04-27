@@ -24,10 +24,16 @@ function trylleRylleRolle() {
 function smaek() {
   console.log("Du kan godt slå hårdere end det ;)");
   looooool();
+  barbieGirl();
 }
 
 function looooool() {
   console.log(
     "Hvorfor gør vi det her? Jeg ved ikke om jeg kan mere.. du ødelægger mig hver gang"
   );
+}
+
+function barbieGirl() {
+  console.log("Hey Barbie");
+  heyKen();
 }
