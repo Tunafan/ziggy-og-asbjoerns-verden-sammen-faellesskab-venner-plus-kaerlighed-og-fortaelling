@@ -31,3 +31,7 @@ function looooool() {
     "Hvorfor gør vi det her? Jeg ved ikke om jeg kan mere.. du ødelægger mig hver gang"
   );
 }
+
+function myomy() {
+  console.log("Lad os være gode venner");
+}
