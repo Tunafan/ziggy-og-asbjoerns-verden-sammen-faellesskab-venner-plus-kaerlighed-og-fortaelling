@@ -7,5 +7,9 @@ function initApp() {
 }
 
 function rendMig() {
-  console.log("mellem ballerne");
+  console.log("Shit jeg har ondt i pøllegrotten");
+}
+
+function waddap() {
+  console.log("Ja, det var dejligt");
 }
