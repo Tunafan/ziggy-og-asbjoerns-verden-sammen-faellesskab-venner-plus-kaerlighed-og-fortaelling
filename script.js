@@ -41,7 +41,7 @@ function barbieGirl() {
 }
 
 function heyKen() {
-  console.log();
+  console.log("Hey Ken");
   wannaGo();
 }
 
