@@ -13,4 +13,11 @@ function rendMig() {
 
 function waddap() {
   console.log("Ja, det var dejligt");
+  looooool();
+}
+
+function looooool() {
+  console.log(
+    "Hvorfor gør vi det her? Jeg ved ikke om jeg kan mere.. du ødelægger mig hver gang"
+  );
 }
