@@ -40,4 +40,9 @@ function barbieGirl() {
 
 function heyKen() {
   console.log();
+  wannaGo();
+}
+
+function wannaGo() {
+  console.log("wanna go for a ride?");
 }
