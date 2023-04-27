@@ -19,6 +19,8 @@ function waddap() {
 
 function trylleRylleRolle() {
   console.log("Try harder, Bertel Haarder");
+  myomy();
+  aaaaa();
 }
 
 function smaek() {
@@ -34,4 +36,8 @@ function looooool() {
 
 function myomy() {
   console.log("Lad os være gode venner");
+}
+
+function aaaaa() {
+  console.log("NEJ, JEG HADER DIG");
 }
