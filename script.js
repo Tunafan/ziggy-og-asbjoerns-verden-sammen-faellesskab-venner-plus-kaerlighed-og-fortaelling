@@ -37,3 +37,7 @@ function barbieGirl() {
   console.log("Hey Barbie");
   heyKen();
 }
+
+function heyKen() {
+  console.log();
+}
