@@ -4,6 +4,7 @@ window.addEventListener("load", initApp);
 function initApp() {
   console.log("Pull op, pull ooooooop");
   rendMig();
+  waddap();
 }
 
 function rendMig() {
